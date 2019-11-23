@@ -1,6 +1,8 @@
 # codeworks
 I plan on updating this repo with all my works (till my personal website is finished).
 
+[Resume](https://www.overleaf.com/read/vdztnyhdgxds)
+
 # live-websites
 | Website  | Link | Technologies Used  | Description |
 | ------------- | ------------- | ------------- | ------------- |
