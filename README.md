@@ -1,7 +1,7 @@
 # codeworks
 I plan on updating this repo with all my works (till my personal website is finished).
 
-[Resume](https://www.overleaf.com/read/vdztnyhdgxds)
+[Resume](https://drive.google.com/file/d/1w8kYaCrZU-Ka407_2u3Rr6T_vxxRT4yq/view?usp=sharing)
 
 # live-websites
 | Website  | Link | Technologies Used  | Description |
